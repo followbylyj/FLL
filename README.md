@@ -23,3 +23,4 @@ use the program after, please downloard https://go.api.education.lego.com/v1/lms
 该授权作品是"按原样"提供，不做任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性和非侵
 权性的保证。在任何情况下，无论是在合同诉讼、侵权诉讼或其他诉讼中，版权持有人均不承担因本软件或
 本软件的使用或其他交易而产生、引起或与之相关的任何索赔、损害或其他责任。 
+ 一个 HREF = “ https://996.icu ” > < IMG  SRC = “ https://img.shields.io/badge/link-996.icu-red.svg ”  ALT = “ 996.icu ” /> </ a >
