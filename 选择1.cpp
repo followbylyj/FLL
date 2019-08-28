@@ -1,22 +1,15 @@
 #include<iostream>
+#include<cstdlib>
 using namespace std;
-int y;
-
-
-
-int main(){
-	cin>>y;
-	if ((y % 4 == 0)&&(y %100 != 0)||(y % 400 == 0))
-		cout<<"TRUE"<<endl;
-	
-	else
-		cout<<"FLASE"<<endl;
-	
-	
-	
-	
-	
-	
-	
-	return 0; 
+int nian;
+int flag;
+int main()
+{
+    cin>>nian;
+    flag=(nian%100==0)?(nian%400==0?1:0):(nian%4==0?1:0);
+    if(flag==1)
+        cout<<"TRUE"<<endl;
+    else
+        cout<<"FALSE"<<endl;   
+    return 0;
 }
