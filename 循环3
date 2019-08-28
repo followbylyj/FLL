@@ -1,0 +1,19 @@
+#include<iostream>
+#include<cstdlib>
+#include<cstdio> 
+using namespace std;
+int a,b,c;
+int js;
+
+
+int main()
+{
+	cin>>a>>b>>c;
+    for(int i=a,js=1;i>=c;i-=4,js++)
+	{
+		cout<<i<<" ";
+		if(js % 10==0)
+			cout<<endl;
+	 } 
+    return 0;
+}
